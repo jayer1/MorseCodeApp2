@@ -1,0 +1,12 @@
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\bin\Debug\netstandard2.0\MorseCodeApp.deps.json
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\bin\Debug\netstandard2.0\MorseCodeApp.dll
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\bin\Debug\netstandard2.0\MorseCodeApp.pdb
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\MorseCodeApp.csproj.CoreCompileInputs.cache
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\MorseCodeApp.AssemblyInfoInputs.cache
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\MorseCodeApp.AssemblyInfo.cs
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\MorseCodeApp.dll
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\MorseCodeApp.pdb
+C:\Users\ayerj\source\repos\MorseCodeApp\MorseCodeApp\MorseCodeApp\obj\Debug\netstandard2.0\MorseCodeApp.csprojAssemblyReference.cache
